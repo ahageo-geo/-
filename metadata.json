@@ -1,0 +1,6 @@
+{
+  "name": "통합사회2 인구 문제와 미래 사회 - 탐구 및 수행평가",
+  "description": "세계 여러 국가의 인구 통계(출생률, 사망률, 인구 피라미드 변화) 비교 분석 및 10점 만점 수행평가·루브릭 실습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
